@@ -7,7 +7,7 @@
 |----------|-----------------|
 | Amharic | Seid Muhie, Musie Meressa, Israel Abebe, Degaga Wolde, Henok Tilaye, Dibora Haile  |
 | Hausa  | Shamsudden Muhammad, Tajuddeen Rabiu Gwadabe, Emmanuel Anebi|
-| Igbo  | Ignatius Ezeani, Chris Emezue, Chukwuneke Chiamaka, Nkiru Odu, Amaka, Isaac |
+| Igbo  | [Ignatius Ezeani](https://github.com/IgnatiusEzeani), Chris Emezue, Chukwuneke Chiamaka, Nkiru Odu, Amaka, Isaac |
 | Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
 |Luganda   |  Joyce Nabende, Jonathan Mukiibi, Eric Peter Kigaye, Ivan Ssenkungu, Ibrahim Mbabaali, Batista Tobius, Maurice Katusiime, Deborah Nabagereka, Tobius Saolo |
 | Luo   | Perez Ogayo, Verrah Otiende |
